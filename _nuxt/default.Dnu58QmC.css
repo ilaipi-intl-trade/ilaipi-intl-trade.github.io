@@ -1,0 +1,1 @@
+.footer-safe[data-v-2c3aa483]{padding-bottom:calc(3rem + env(safe-area-inset-bottom))}@supports (padding:max(0px)){.footer-safe[data-v-2c3aa483]{padding-bottom:max(3rem,env(safe-area-inset-bottom))}}
